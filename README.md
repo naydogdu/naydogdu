@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an UX Developer with good design skills, in 💜 with CSS and sensitive to accessibility, animations and performances.
+I'm an UX Developer with good design skills, in 💜 with JavaScript, CSS, and sensitive to accessibility, animations and performances.
 
-I like to improve things, mostly design and markup, and I'm comfortable in UI composition and CSS architecture.
+I like to improve things, and I'm comfortable in UI composition and CSS architecture.
 
 Currently at work, I mainly use React.js, Vue.js, TypeScript, ES6, TailwindCSS, PostCSS, Twig. 
 
